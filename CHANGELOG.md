@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.1.2 (2021-05-11)
+- Change ngrok version to 4.0.1
+
 ## 1.1.1 (2016-05-05)
 
 - Removed unused dependency from the `package.json`.
