@@ -1,3 +1,6 @@
+# THIS PROJECT IS FORK FROM nordnet
+We change ngrok version for support Macbook M1
+
 # THIS PROJECT IS DEPRECATED
 
 We are not using this repo anymore, and we lack the manpower and the experience needed to maintain it. We are aware of the inconveniece that this may cause you. Feel free to use it as is, or create your own fork. See https://github.com/nordnet/cordova-hot-code-push-cli/issues/79 for more information.
